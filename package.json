@@ -1,0 +1,24 @@
+{
+  "name": "react-basic-config",
+  "version": "1.0.0",
+  "description": "Basic configuration for React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snags88/react-basic-config.git"
+  },
+  "keywords": [
+    "react",
+    "basic",
+    "config"
+  ],
+  "author": "Seiji Naganuma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snags88/react-basic-config/issues"
+  },
+  "homepage": "https://github.com/snags88/react-basic-config"
+}
