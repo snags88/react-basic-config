@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/snags88/react-basic-config/issues"
   },
-  "homepage": "https://github.com/snags88/react-basic-config"
+  "homepage": "https://github.com/snags88/react-basic-config",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1"
+  }
 }
